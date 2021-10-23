@@ -1,0 +1,4 @@
+baseURL = 'http://albertomendez.gal/'
+languageCode = 'gl'
+title = 'Alberto Méndez'
+theme = "coder"
